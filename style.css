@@ -431,7 +431,7 @@ div.form-control::-webkit-input-placeholder {
 }
 .header-area .search-area i {
   display: inline-block;
-  color: #e30b48;
+  color: #e30b48 !important;
   cursor: pointer;
 }
 /* ------------------------------------
