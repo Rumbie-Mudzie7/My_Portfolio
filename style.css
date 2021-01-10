@@ -280,7 +280,7 @@ div.form-control::-webkit-input-placeholder {
 .header-area .main-menu ul li a {
   display: block;
   text-decoration: none;
-  color: #ffffff;
+  color:  #e30b48;
   font-weight: 400;
   transition: all 0.5s ease 0s;
 }
@@ -319,7 +319,7 @@ div.form-control::-webkit-input-placeholder {
   opacity: 1;
 }
 .header-area .main-menu ul li a:hover {
-  color: #e30b48;
+  color:  #ffffff;
 }
 .header-area .main-menu ul li ul.sub-menu {
   background: rgba(0, 0, 0, 0.8);
@@ -439,8 +439,8 @@ div.form-control::-webkit-input-placeholder {
 ---------------------------------------*/
 .banner-area {
   padding: 350px 0;
-  min-height: 100vh;
-  background: url(images/banner.jpg) no-repeat;
+  /* min-height: 100vh; */
+  background: url(images/about/main1.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -481,11 +481,11 @@ div.form-control::-webkit-input-placeholder {
   margin-bottom: 10px;
 }
 .banner-area .banner-text h1 span {
-  color: #ffffff;
+  color: #e30b48;
   font-size: 68px;
 }
 .banner-area .banner-text p {
-  color: #ffffff;
+  color: #333;
 }
 .banner-area .banner-text a {
   padding: 12px 25px;
@@ -508,7 +508,7 @@ div.form-control::-webkit-input-placeholder {
   white-space: nowrap;
   left: 0;
   top: 0;
-  color: #e30b48;
+  color:  #ffff;
 }
 .banner-area .banner-text .cd-words-wrapper b.is-visible {
   position: relative;
@@ -1482,6 +1482,7 @@ div.form-control::-webkit-input-placeholder {
   cursor: pointer;
   text-decoration: none;
 }
+
 .contact-area .from-area .submit-btn a:hover {
   background: #038fc3;
 }
