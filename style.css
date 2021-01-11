@@ -510,7 +510,7 @@ div.form-control::-webkit-input-placeholder {
   white-space: nowrap;
   left: 0;
   top: 0;
-  color:  #0e0002b2;
+  color:  #0e0002b2 !important;
 }
 .banner-area .banner-text .cd-words-wrapper b.is-visible {
   position: relative;
