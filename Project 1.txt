@@ -1,7 +1,0 @@
-<!Doctype html>
-<html>
-<title>Project 1</title>
-
-
-
- </html>
