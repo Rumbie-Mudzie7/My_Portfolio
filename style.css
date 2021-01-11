@@ -486,7 +486,7 @@ div.form-control::-webkit-input-placeholder {
   font-size: 68px;
 }
 .banner-area .banner-text p {
-  color: #ffffff;
+  color: #ffffff !important;
   font-weight: bold;
 }
 .banner-area .banner-text a {
