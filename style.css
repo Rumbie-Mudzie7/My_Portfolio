@@ -486,7 +486,8 @@ div.form-control::-webkit-input-placeholder {
   font-size: 68px;
 }
 .banner-area .banner-text p {
-  color: #333;
+  color: #ffffff;
+  font-weight: bold;
 }
 .banner-area .banner-text a {
   padding: 12px 25px;
@@ -509,7 +510,7 @@ div.form-control::-webkit-input-placeholder {
   white-space: nowrap;
   left: 0;
   top: 0;
-  color:  #ffff;
+  color:  #0e0002b2;
 }
 .banner-area .banner-text .cd-words-wrapper b.is-visible {
   position: relative;
@@ -1444,30 +1445,33 @@ div.form-control::-webkit-input-placeholder {
 }
 .contact-area .section-area p {
   color: #ffffff;
+  font-weight: bold;
 }
 .contact-area .from-area .form-group input {
   background: transparent;
   border-radius: 0;
   height: 55px;
   margin-right: 20px;
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   margin-bottom: 25px;
   color: #ffffff;
+  font-weight: bold;
 }
 .contact-area .from-area .form-group input:focus {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   box-shadow: none;
 }
 .contact-area .from-area .form-group textarea {
   background: transparent;
   border-radius: 0;
   margin-right: 20px;
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   color: #ffffff;
   height: 215px;
+  font-weight: bold;
 }
 .contact-area .from-area .form-group textarea:focus {
-  border: 1px solid #dddddd;
+  border: 2px solid #dddddd;
   box-shadow: none;
 }
 .contact-area .from-area .submit-btn a {
