@@ -492,7 +492,7 @@ div.form-control::-webkit-input-placeholder {
 .banner-area .banner-text a {
   padding: 12px 25px;
   background: #e30b48;
-  color: #ffffff;
+  color: #0e0002b2 ;
   transition: all 0.5s ease 0s;
   display: inline-block;
 }
